@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Executables
+*.exe
+
+# IDE / editor files
+.vs/
+.vscode/
+*.swp
+*.swo
